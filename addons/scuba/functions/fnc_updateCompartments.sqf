@@ -17,7 +17,7 @@ private _compartments = ACE_player getVariable [QGVAR(compartments), [0.745,0.74
     private _pGas = ACE_player getVariable QGVAR(nitrogenPressure);
     private _tExposure = 1/60;
     private _tHalftime = GVAR(halftimes) select (_forEachIndex * 2);
-    
+
     // Bühlmann algorithm
     private _pComp = _pBegin + (_pGas - _pBegin) * (1 - 2 ^ (-1 * _tExposure / _tHalftime));
 
