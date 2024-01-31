@@ -1,5 +1,4 @@
-ace_scuba
-==========
+# ace_scuba
 
 Adds gas tanks for diving and decompression sickness calculation.
 
@@ -7,4 +6,4 @@ Adds gas tanks for diving and decompression sickness calculation.
 
 The people responsible for merging changes to this component or answering potential questions.
 
-- [BaerMitUmlaut](https://github.com/BaerMitUmlaut)
+-   [BaerMitUmlaut](https://github.com/BaerMitUmlaut)
